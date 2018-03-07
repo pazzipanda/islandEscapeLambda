@@ -1,0 +1,27 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "lambda functions to handle game logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pazzipanda/islandEscapeLambda.git"
+  },
+  "keywords": [
+    "lambda"
+  ],
+  "author": "Patrick Kuhnle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pazzipanda/islandEscapeLambda/issues"
+  },
+  "homepage": "https://github.com/pazzipanda/islandEscapeLambda#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "http": "0.0.0",
+    "request": "^2.83.0"
+  }
+}
